@@ -1,2 +1,2 @@
-# FOTA
-Develop FOTA
+# FotaPcApp
+Develop FotaPcApp
